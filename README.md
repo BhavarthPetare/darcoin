@@ -17,11 +17,11 @@ Instead of exposing all transaction details like Bitcoin, Darcoin uses **Merkle 
 ---
 
 ## 📂 Project Structure
-**contracts/** → Solidity smart contracts (Hardhat)
-**backend/** → Node.js/Express API (Merkle logic, zk integration)
-**frontend/** → React + Tailwind wallet UI
-**docs/** → Diagrams + design notes
-**scripts/** → Deployment helpers
+- **contracts/** → Solidity smart contracts (Hardhat)
+- **backend/** → Node.js/Express API (Merkle logic, zk integration)
+- **frontend/** → React + Tailwind wallet UI
+- **docs/** → Diagrams + design notes
+- **scripts/** → Deployment helpers
 
 ---
 
